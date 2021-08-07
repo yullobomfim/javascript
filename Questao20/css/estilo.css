@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffffff;
+    font: Arial, 18pt;
+    color: black;
+}
+
+
+section {
+    border-radius: 1px;
+    padding: 10px;
+    width: auto;
+    margin: auto;
+}
+
+div {
+    font: Arial bold;
+    font-size: 12pt;
+    padding: 10px;
+    text-align: center;
+
+}
